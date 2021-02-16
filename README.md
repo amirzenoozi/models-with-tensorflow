@@ -11,6 +11,6 @@ In this repo you can find base model implimentation on tensorflow
 - [x] Resnet-101
 - [x] Resnet-152
 - [x] VGG-16
-- [ ] VGG-19
+- [x] VGG-19
 - [ ] MobileNet-V1
 - [ ] BVLC AlexNet
